@@ -1,23 +1,23 @@
-# Portfólio + Formulário - Miguel do Nascimento Leite
+# Currículo + Formulário - Mateus Henrique de Assis
 
 ## Descrição
-Este projeto é um portfólio pessoal desenvolvido para apresentar minhas habilidades e experiências como estudante de Análise e Desenvolvimento de Sistemas.
+Este projeto é um currículo pessoal desenvolvido para apresentar minhas habilidades e experiências como estudante de Análise e Desenvolvimento de Sistemas.
 
-## Alterações Realizadas
+## Modificações Realizadas
 
 - **Navbar**:
-  - Implementada uma barra de navegação responsiva utilizando Bootstrap para melhor organização e navegação entre as seções do portfólio.
+  - Foi implementada uma barra de navegação responsiva utilizando Bootstrap, proporcionando melhor organização e facilidade na navegação entre as seções do currículo.
 
 - **Estilo**:
-  - Melhorias visuais na página, como ajuste de cores e tamanhos de fonte, para garantir uma melhor legibilidade e estética.
-  - Aumentado o tamanho da imagem de perfil e adicionado uma sombra para destaque.
+  - Melhorias visuais foram aplicadas à página, como ajustes nas cores e tamanhos das fontes, a fim de garantir uma melhor leitura e estética.
+  - O tamanho da imagem de perfil foi ampliado e uma sombra foi adicionada para destacá-la.
 
 - **Formulário**:
-  - Criado um formulário de contato em um pop-up que inclui campos para nome, sobrenome, telefone, e-mail, mensagem, seleção de idiomas e upload de arquivos.
-  - O formulário foi estilizado para manter a consistência com o design do portfólio.
+  - Um formulário de contato foi criado em um pop-up, contendo campos para nome, sobrenome, telefone, e-mail, mensagem, seleção de idiomas e upload de arquivos.
+  - O formulário foi estilizado de forma a manter a consistência com o design do currículo.
 
 - **JavaScript**:
-  - Adicionada funcionalidade para a barra de navegação para que ela colapse em telas menores.
+  - Foi adicionada funcionalidade para que a barra de navegação se contraia em telas menores.
 
 ## Tecnologias Utilizadas
 - HTML
@@ -26,7 +26,7 @@ Este projeto é um portfólio pessoal desenvolvido para apresentar minhas habili
 - Bootstrap
 
 ## Como Usar
-Para visualizar o portfólio, abra o arquivo `index.html` em um navegador web. O formulário pode ser acessado através do botão designado na página principal.
+Para visualizar o currículo, basta abrir o arquivo `index.html` em um navegador. O formulário pode ser acessado através de um botão específico na página principal.
 
 ## Licença
-Este projeto é de uso pessoal e pode ser modificado conforme necessário.
+Este projeto é de uso pessoal e pode ser adaptado conforme necessário.
